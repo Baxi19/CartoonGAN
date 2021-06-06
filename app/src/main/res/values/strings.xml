@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CartoonGAN</string>
+    <string name="about">"Imagen animada con TFLite"</string>
+    <string name="tflite_model" translatable="false">Modelo TFLite:</string>
+    <string name="share_button_alt">Share</string>
+    <string name="save_button_alt">Save</string>
+    <string name="save">Save</string>
+    <string name="share">share</string>
+    <string-array name="tflite_models" translatable="false">
+        <item>Modelo: CartoonGan Dynamic Range</item>
+        <item>Modelo: CartoonGan Fp16</item>
+        <item>Modelo: CartoonGan Int8</item>
+    </string-array>
+</resources>
